@@ -31,7 +31,7 @@
 #include "BenchLepton.h"
 #include "BenchFParser.h"
 #include "BenchMathExpr.h"
-#include <include/BenchLua.h>
+#include "BenchLua.h"
 
 #ifdef ENABLE_MPFR
 #include "BenchExprTkMPFR.h"
